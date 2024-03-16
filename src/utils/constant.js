@@ -34,5 +34,4 @@ export const SUPPORTED_LANGUAGES = [
   { identifier: "spanish", name: "Spanish" },
 ];
 
-export const OPEN_AI_API_KEY =
-  "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";
+export const OPEN_AI_API_KEY = "abcd";
