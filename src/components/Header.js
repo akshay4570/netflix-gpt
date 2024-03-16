@@ -74,12 +74,12 @@ const Header = () => {
               ))}
             </select>
           )}
-          <button
+          {/* <button
             className="text-white bg-purple-700 px-4 py-2 my-5 rounded-lg h-10"
             onClick={handleGPTClick}
           >
             {showGPT ? "Home" : "GPT Search"}
-          </button>
+          </button> */}
           <img
             src={NETFLIX_USER_ICON}
             alt="icon"
